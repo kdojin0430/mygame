@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: de2e5bf75db2afd438e218e80ba72333
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 363
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f9884ac32812e4d86a36ef31d29029
+      internalID: 1935343464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 363
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba30ded6483dc84baad2704690158eb
+      internalID: -1970932824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 363
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009644500401def478bb3295861d206d
+      internalID: 1044993779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 363
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83862ec8d7b75ff45917bdea0cf72894
+      internalID: 464072484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 363
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2337e3c613fe1409285d609f3d2e10
+      internalID: -923435271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 278
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4acb78b5d21da408aa1f5cd213a1e9
+      internalID: -2040999273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 277
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284ae40a912f5fe47a51ff8c677cf1fa
+      internalID: -2101067018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 277
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d412099605304544830bb7a2f5d17f0
+      internalID: 1567026740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 282
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b904fa176cbcd429a0a1220e94d481
+      internalID: 534329310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 294
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a4e6cbcf7277d4e81cb21496ebc069
+      internalID: -1863104698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 209
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9f2be578804c34ab7d9da2e91d9c2b
+      internalID: -873837275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 207
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e05aadf847c714cb9169aca31aeecb
+      internalID: 1141795581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 201
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114ae21350ffed245a1dd57799162259
+      internalID: -1600382176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 190
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad31116b534764b8978dff90d91e1e
+      internalID: 120849965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 190
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753127c6383a45c4bbf5a0f3bec06ecd
+      internalID: 930700348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfddf7c4a975ea742afa9847767a3a40
+      internalID: -1605687381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 104
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b29570c20b8b247a37778b7bd1afa7
+      internalID: 822524940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 104
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a3600b2f90a8040b716f6b0f32b896
+      internalID: -872581565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 104
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e31b27327b7ee4d91b3d138a87b632
+      internalID: 1107081074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 104
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805961ee8a6cb0d4c92f4183dc17268d
+      internalID: 1300427105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 17
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808af5e025cf1c7428ae5f8f465d6f4b
+      internalID: -1354749484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_0: 1935343464
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_1: -1970932824
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_10: -873837275
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_11: 1141795581
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_12: -1600382176
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_13: 120849965
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_14: 930700348
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_15: -1605687381
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_16: 822524940
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_17: -872581565
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_18: 1107081074
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_19: 1300427105
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_2: 1044993779
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_20: -1354749484
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_3: 464072484
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_4: -923435271
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_5: -2040999273
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_6: -2101067018
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_7: 1567026740
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_8: 534329310
+      PixelRunJumpWIP-ezgif.com-gif-to-sprite-converter__1_-removebg-preview_9: -1863104698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
