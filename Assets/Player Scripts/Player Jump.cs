@@ -4,6 +4,13 @@ using UnityEngine;
 
 public class PlayerJump : MonoBehaviour
 {
+    [SerializeField]
+    Transform pos;
+    [SerializeField]
+    float checkRadius;
+    [SerializeField]
+    LayerMask islayer;
+    bool isGround;
     public float jumpPower;
     Rigidbody2D rigid;
     Animator anim;
@@ -22,9 +29,9 @@ public class PlayerJump : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        isGround = Physics2D.OverlapCircle(pos.position, checkRadius,islayer);
 
-        if (Input.GetButtonDown("Jump"))
+        if (isGround == true && Input.GetButtonDown("Jump"))
         {
             rigid.AddForce(Vector2.up * jumpPower, ForceMode2D.Impulse);
             anim.SetBool("isJumping", true);
@@ -38,7 +45,7 @@ public class PlayerJump : MonoBehaviour
             RaycastHit2D rayHit = Physics2D.Raycast(rigid.position,Vector3.down,1);
             if (rayHit.collider != null) 
             {
-                if (rayHit.distance < 0.5f)
+                if (rayHit.distance < 2.0f)
                     anim.SetBool("isJumping", false);
             }
 
