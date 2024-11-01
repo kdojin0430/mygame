@@ -2,18 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Background
-    : MonoBehaviour
+public class Background: MonoBehaviour
 {
-    private float moveSpeed = 3f;
+    private float moveSpeed = 1f;    
 
     // Update is called once per frame
     void Update()
     {
-        transform.position = Vector3.down * moveSpeed * Time.deltaTime;
-        if (transform.position.y < -10)
+        transform.position = Vector3.left * moveSpeed * Time.deltaTime;
+        if (transform.position.x < -238)
         {
-            transform.position += new Vector3(0, 20f, 0);
+            transform.position += new Vector3(-265f, 0, 0);
         }
     }
 }
