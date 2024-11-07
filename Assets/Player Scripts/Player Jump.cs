@@ -34,6 +34,7 @@ public class PlayerJump : MonoBehaviour
         if (isGround == true && Input.GetButtonDown("Jump"))
         {
             rigid.AddForce(Vector2.up * jumpPower, ForceMode2D.Impulse);
+            Time.timeScale = 0.3f;
             anim.SetBool("isJumping", true);
         }
         
@@ -46,7 +47,10 @@ public class PlayerJump : MonoBehaviour
             if (rayHit.collider != null) 
             {
                 if (rayHit.distance < 2.0f)
+                {
+                    Time.timeScale = 1;
                     anim.SetBool("isJumping", false);
+                }
             }
 
         }   
