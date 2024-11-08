@@ -13,4 +13,11 @@ public class Enemy : MonoBehaviour
         transform.position += Vector3.left * moveSpeed * Time.deltaTime;
 
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Backgrund")
+        {
+            transform.position = new Vector3(20, -1, 0);
+        }
+    }
 }
