@@ -17,7 +17,7 @@ public class Background: MonoBehaviour
     {
         if (collision.gameObject.tag == "Backgrund")
         {
-            transform.position = new Vector3(15, 0, 0);
+            transform.position = new Vector3(15.3f, 0, 0);
         }
     }
 
